@@ -3,9 +3,8 @@
 因为看到网上写iOS顶部悬浮的Demo特别少,所以做出来之后,发布到网上,仅供参考。
 
 ---
-## **效果图**
+## **上滑停靠顶端悬浮框,下滑恢复原有位置**
 不论怎么滑动屏幕内容，当蓝色部分到达顶部时，便会一直会显示在顶部。
-![Result](http://img.blog.csdn.net/20170629174923749?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvemhvbmdhZDAwNw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 ---
 ##**实现原理**
